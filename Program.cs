@@ -15,7 +15,6 @@ namespace Example6
             string name;
 
             score = (int)0.5;
-            score2 = 3;
             pai = 3.1415;
             name = "TARO";
 
